@@ -29,7 +29,7 @@
     "scss"
   ],
   "license": "MIT",
-  "main": "core/_bourbon.scss",
+  "main": "app/assets/stylesheets/_bourbon.scss",
   "name": "bourbon",
   "repository": {
     "type": "git",

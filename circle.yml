@@ -13,4 +13,4 @@ test:
   override:
     - bundle exec rake
   post:
-    - sassdoc core/ --parse --verbose --strict
+    - sassdoc app/assets/stylesheets/ --parse --verbose --strict

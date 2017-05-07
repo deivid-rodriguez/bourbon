@@ -2,7 +2,7 @@
 
 1. Update the version number in these places:
   - `lib/bourbon/version.rb`
-  - `core/_bourbon.scss`
+  - `app/assets/stylesheets/_bourbon.scss`
   - `package.json`
   - `bower.json`
   - `README.md`
